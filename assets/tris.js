@@ -1,0 +1,1 @@
+window.alert("You have encountered my chastity belt named chase");
